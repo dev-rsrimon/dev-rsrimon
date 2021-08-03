@@ -1,7 +1,7 @@
 ### Hi there
 
 
-**Working as a Front-end Developer & Designer at Tork Inc. I love to solve problems with javaScript, Nowadays I am working with Vue, React, and Nuxt.js..
+Working as a Front-end Developer & Designer at Tork Inc. I love to solve problems with javaScript, Nowadays I am working with Vue, React, and Nuxt.js..
 
 Here are some ideas to get you started:
 
