@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there
 
 
-**dev-rsrimon/dev-rsrimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Working as a Front-end Developer & Designer at Tork Inc. I love to solve problems with javaScript, Nowadays I am working with Vue, React, and Nuxt.js..
 
 Here are some ideas to get you started:
 
