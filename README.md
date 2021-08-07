@@ -1,9 +1,9 @@
 ### Hi there
 
 
-Working as a Front-end Developer & Designer at Tork Inc. I love to solve problems with javaScript, Nowadays I am working with Vue, React, and Nuxt.js..
-
-Here are some ideas to get you started:
+ # I believe "if you don't know how to use them it will never be enough". 
+ 
+I'm a professional front-end developer. I have solid working experience in Vue.js, nuxt.js, Bootstrap, HTML, CSS. Also, have good knowledge of React.js.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
