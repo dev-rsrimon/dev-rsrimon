@@ -10,4 +10,4 @@ I'm a professional front-end developer. I have solid working experience in Vue.j
 - I’m looking to collaborate on community
 - I'm looking for help to learn the strategy of developing a better system
 - Ask me about my skillful topic
-- HHow to reach me: through the email raihan sharif.info@gmail.com
+- HHow to reach me: through the email raihansharif.info@gmail.com
