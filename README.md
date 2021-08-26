@@ -16,7 +16,7 @@ I'm a professional front-end developer. I have solid working experience in Vue.j
 
 <p align="center">
  
-###  Social Network 📱
+###  Social Network
 
 &nbsp;&nbsp;<a  href="https://dev.to/devrsrimon"  target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"  alt="@devrsrimon"  title="Rs. Rimon"  height="20"  width="20"  /></a>&nbsp;&nbsp;
 <a  href="https://stackoverflow.com/users/14229652/rs-rimon"  target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"  title="Stack Overflow"  alt="devrsrimon"  height="20"  width="20"  /></a>&nbsp;&nbsp;
@@ -24,3 +24,5 @@ I'm a professional front-end developer. I have solid working experience in Vue.j
 <a  href="https://twitter.com/dev_rsrimon"  target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  alt="Rs. Rimon"  title="devrsrimon"  height="20"  width="20"  /></a>&nbsp;&nbsp;
 <a  href="https://www.hackerrank.com/raihansharif_dev"  target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg"  alt="Rs. Rimon"  title="@devrsrimon"  height="20"  width="20"  /></a>&nbsp;&nbsp;
 </p>
+
+Thank you
