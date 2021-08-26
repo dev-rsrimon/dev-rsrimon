@@ -2,8 +2,7 @@
 
  <h2 align="center">A Front-end Developer</h3> 
 
- I believe **"if you don't know how to use them it will never be enough"**
- 
+ I believe **"if you don't know how to use them it will never be enough"** <br/> <br/>
 I'm a professional front-end developer. I have solid working experience in Vue.js, nuxt.js, Bootstrap, HTML, CSS. Also, have good knowledge of React.js.
 
 - I’m currently working on The Tork Inc. as a Frontend Developer
